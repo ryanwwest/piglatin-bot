@@ -8,3 +8,5 @@ This is a simple GroupMe that will listen to group messages and put them into Pi
 3. Download and install this repository, Python, and other dependencies where it can receive requests from the Callback URL in step 2
 4. Copy the `Bot ID` from the GroupMe Developers page for step 5
 5. Run this command: `BOT_ID={Bot ID from step 4} python3 app.py`
+
+![Screenshot](screenshot.png)
